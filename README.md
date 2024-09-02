@@ -1,5 +1,6 @@
 # Gradio-T5
 Example of using Gradio with the Google T5 model to translate text through a user-friendly interface, with integrated API
+Gradio repository: https://github.com/gradio-app/gradio
 
 ## To install
 We will need to create a virtual environment and install all the dependencies:
